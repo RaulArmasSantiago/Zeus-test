@@ -1,0 +1,18 @@
+.containerGroups {
+    height: 250px;
+    max-height: 250px;
+    overflow-y: auto;
+}
+
+.cardGroup {
+    background-color: darkcyan;
+    height: 40px;
+    font-size: 1.3em;
+    color: aliceblue;
+    text-align: start;
+}
+
+.employeesGroupHeader {
+    justify-content: space-between;
+    align-items: flex-start;
+}
